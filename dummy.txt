@@ -1,1 +1,2 @@
-text from testBranch 
+text from testBranch
+text from master
